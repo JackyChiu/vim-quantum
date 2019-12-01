@@ -1,6 +1,6 @@
 if(exists("g:lightline"))
     " Color palette
-    let s:gray1     = g:quantum_black ? '#212121' : '#263238'
+    let s:gray1     = g:quantum_black ? '#212121' : '#2e3440'
     let s:gray2     = g:quantum_black ? '#292929' : '#2c3a41'
     let s:gray3     = g:quantum_black ? '#474646' : '#425762'
     let s:gray4     = g:quantum_black ? '#6a6c6c' : '#658494'
