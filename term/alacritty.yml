@@ -1,0 +1,26 @@
+# vim-quantum
+colors:
+  primary:
+    background: '0x2e3440'
+    foreground: '0xbcbec0'
+  cursor:
+    text: '0x212121'
+    cursor: '0xd0d2d3'
+  normal:
+    black: '0x6a6c6c'
+    red: '0xed8499'
+    green: '0x97d589'
+    yellow: '0xe9cb88'
+    blue: '0x87bff5'
+    magenta: '0xb9a0ef'
+    cyan: '0x7bdbe4'
+    white: '0xd0d2d3'
+  bright:
+    black: '0x474646'
+    red: '0xdd7186'
+    green: '0x87bb7c'
+    yellow: '0xd5b875'
+    blue: '0x70ace5'
+    magenta: '0xa48add'
+    cyan: '0x69c5ce'
+    white: '0xbcbec0'
